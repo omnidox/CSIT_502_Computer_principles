@@ -1,0 +1,13 @@
+Module-1 includes:
+
+Computer concepts and computer history basics. 
+Digital computer fundamentals, 
+Basic logic operations, 
+Number systems.
+Arithmetic operations, 
+Complements, 
+Signed binary numbers, 
+Floating Point Numbers, 
+Codes.
+
+

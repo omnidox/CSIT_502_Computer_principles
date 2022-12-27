@@ -1,0 +1,43 @@
+..............................
+Logisim is an educational tool for designing and simulating digital logic circuits.
+........................................
+It is STRONGLY RECOMMENDED to use PC's not Mac's for the required freeware Logisim.
+........................................
+LogiSim download:
+
+http://www.cburch.com/logisim/
+.........................................
+
+Logisim tutorials (UTube)
+...........................................
+https://www.youtube.com/watch?v=cMz7wyY_PxE
+
+https://www.youtube.com/watch?v=WExVhr583vA
+
+https://www.youtube.com/watch?v=RdnT_Ujq72E
+
+you can search for more tutorials.
+...........................................
+Logisim on macOS
+...........................................
+
+install Java new verison
+
+Google the problem or visit ...............
+
+https://forums.developer.apple.com/thread/122771
+
+https://macdownload.informer.com/logisim/
+
+https://github.com/laurensk/logisim-macos
+
+https://discussions.apple.com/thread/250949735
+
+Usually students with Mac computers have initially some difficulties 
+but all manage to get around and download the necessary files to run the program.
+..........................................
+
+
+
+
+

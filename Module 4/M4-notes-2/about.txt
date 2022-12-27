@@ -1,0 +1,7 @@
+Read only memory design, Multiplexrs and demultiplexers, Arithmetic Logic Init Design, Principles of Sequential logic-Registers, 
+Random-access memory fundamentals.
+
+
+
+
+

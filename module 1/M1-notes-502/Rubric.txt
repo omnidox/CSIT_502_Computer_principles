@@ -1,0 +1,9 @@
+Homework rubric:
+================
+
+Correct result : 100%
+Good start with no correct result: 40%
+Not good start and not-correct result: 0%
+------------------------------------------
+poor write up: Minus 20%.
+

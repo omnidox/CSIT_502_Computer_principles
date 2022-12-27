@@ -1,0 +1,5 @@
+
+
+To get decimal values in the register plane (right-up) un-check the checked [Hexadecimal Values] box (see image 1, with red color)
+
+Image 2, shows the un-checked [Hexadecimal Values] box and the right red plane (right-up) with the decimal values.

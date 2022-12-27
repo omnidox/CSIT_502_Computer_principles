@@ -1,0 +1,13 @@
+Book:
+---------
+
+2.7.2 / minimization 
+2.7.3 / don't cares
+
+
+5.2.1 /  addition
+5.2.2 /  subtraction
+5.2.3 /  comparator
+
+
+2.8.2 / decoders
